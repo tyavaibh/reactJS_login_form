@@ -1,0 +1,66 @@
+label {
+  font-size: 20px;
+}
+
+.formDiv {
+  /* border: 1px solid black; */
+  padding: 5px;
+  max-width: 30%;
+  position: relative;
+  top: 180px;
+  left: 100px;
+  background-color: antiquewhite;
+  height: 300px;
+  border-radius: 20px;
+  box-shadow: 20px;
+}
+
+.inDiv {
+  margin: auto;
+  max-width: 70%;
+  margin-top: 70px;
+}
+
+.sub_btn {
+  background-color: rgb(7, 126, 7);
+  color: white;
+  padding: 8px;
+  border-radius: 15px;
+  border: none;
+  margin-left: 160px;
+  width: 70px;
+}
+
+.res_btn {
+  background-color: rgb(223, 28, 28);
+  color: white;
+  padding: 8px;
+  width: 70px;
+  border-radius: 15px;
+  border: none;
+  margin-left: 5px;
+}
+
+input {
+  border-radius: 20px;
+}
+
+.name_inp {
+  margin-left: 90px;
+}
+
+.mob_inp {
+  margin-left: 83px;
+}
+
+.mail_inp {
+  margin-left: 25px;
+}
+
+.headerDiv {
+  max-width: 50%;
+  /* border: 1px solid black; */
+  margin: auto;
+  text-align: center;
+  text-decoration: underline;
+}
